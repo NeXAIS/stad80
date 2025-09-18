@@ -20,3 +20,17 @@ Week 3
 Week 4
 : [Asymptotics](../lectures/4.Asymptotics.pdf)
   : []()
+
+
+Week 5
+: [CLT](../lectures/5.CLT.pdf)
+  : []()
+
+
+Week 6
+: [Point Estimation](../lectures/6.Point.pdf)
+  : []()
+
+Week 7
+: [Linear Regression](../lectures/7.LR.pdf)
+  : []()

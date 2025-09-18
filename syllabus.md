@@ -24,6 +24,7 @@ nav_order: 2
 
 _Please email if standard office hours times do not work for you._
 
+[Syllabus](./lectures/syllabus.pdf)
 
 ## Instructional Methods
 

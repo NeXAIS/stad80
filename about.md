@@ -34,15 +34,17 @@ A central goal in statistics is to use data to build models that allow us to mak
 ### Textbook
 
 * [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
+
+* [Knight 2000, Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Chapman-Statistical-Science/dp/158488178X)
 * [Ding 2025, Linear Model and Extensions](https://arxiv.org/pdf/2401.00649.pdf)
-* [Dobson and Barnett 2018, An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515)
+
 
 
 
 
 ### Reference Books
+* [Dobson and Barnett 2018, An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515)
 * [Agresti 2015, Foundations of Linear and Generalized Linear Models](https://www.amazon.com/Foundations-Linear-Generalized-Probability-Statistics/dp/1118730038)
-* [Knight 2000, Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Chapman-Statistical-Science/dp/158488178X)
 * [Hogg, McKean, Craig 2000, Introduction to Mathematical Statistics](https://www.amazon.ae/Introduction-Mathematical-Statistics-Global-Robert/dp/1292264764)
 * [Evans and Rothenthal 2024, Probability and Statistics: The Science of Uncertainty](https://utstat.utoronto.ca/mikevans/jeffrosenthal/)
 
