@@ -28,9 +28,6 @@ Week 5
 
 
 Week 6
-: [Point Estimation](../lectures/6.Point.pdf)
+: [CI adn More](../lectures/6.CI%20and%20Conv.pdf)
   : []()
 
-Week 7
-: [Linear Regression](../lectures/7.LR.pdf)
-  : []()
