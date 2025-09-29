@@ -28,6 +28,9 @@ Week 5
 
 
 Week 6
-: [CI adn More](../lectures/6.CI%20and%20Conv.pdf)
+: [CI and Stochastic Convergence](../lectures/6.CI%20and%20Conv.pdf)
   : []()
 
+Week 6
+: [Point Estimation](../lectures/7.Point.pdf)
+  : []()
