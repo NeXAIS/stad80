@@ -10,17 +10,15 @@ nav_order: 2
 ## Instructors
 
 
-**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) and [Eric Moulines](https://mbzuai.ac.ae/study/faculty/professor-eric-moulines/)
+**Instructor:** [Qiang Sun](https://sites.google.com/view/qsun) 
 
-**Lectures:** Tuseday, 12:00 - 1:20pm, CR3; Thursday, 11:00 - 12:20, CR1
+**Lectures:** Wed, 12:00 - 13:00, IA2050; Fri, 10:00 - 12:00, IA2160
 
-**Office Hours:** Thursday 12:30 - 13:30, B-3.05
+**Office Hours:** TBD
 
-**Email:** [qiang.sun@mbzuai.ac.ae](mailto:qiang.sun@mbzuai.ac.ae) and [eric.moulines@mbzuai.ac.ae](mailto:eric.moulines@mbzuai.ac.ae)
+**Email:** [qiang.sun@utoronto.ca](mailto:qiang.sun@utoronto.ca) 
 
-**TA:** Ding Bai, [ding.bai@mbzuai.ac.ac](mailto:ding.bai@mbzuai.ac.ae)
-
-**Lab:** Friday, 9:00 - 10:50, CR1
+**TA:** TBD, [TBD](mailto:TBD)
 
 _Please email if standard office hours times do not work for you._
 
@@ -32,7 +30,11 @@ In Person. Some classes may be scheduled on Zoom in unforeseen circumstances.
 
 ## Course Description
 
-A central goal in statistics is to use data to build models that allow us to make inferences about the underlying data-generating processes or predict future observations. Although real-world problems are often complex, the linear model frequently provides a good approximation to the true data-generating process. Moreover, linear models possess elegant algebraic and geometric properties and often admit explicit formulas, offering deep insights into various aspects of modern machine learning.  In our experience, the insights gained from linear models are broadly applicable, with only rare exceptions. 
+This course is a topic course, whose contents evolve from year to year. The course usually consists of both theoretical and computational components. This year, we will focus on three pillars:
+	1.	Fundamentals, such as statistical principles and models
+	2.	Optimization and generative learning
+	3.	Generative modeling and learning
+ 
 
 ## Course Materials
 
@@ -40,19 +42,11 @@ All materials are available as publicly available research papers linked from th
 
 
 ### Textbook
-* [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
-* [Ding 2025, Linear Model and Extensions](https://arxiv.org/pdf/2401.00649.pdf)
-* [Dobson and Barnett 2018, An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515)
-
+* [Lecture Notes](https://www.overleaf.com/read/tdcxbsvxgjxj#ac3d16)
 
 
 
 ### Reference Books
-* [Agresti 2015, Foundations of Linear and Generalized Linear Models](https://www.amazon.com/Foundations-Linear-Generalized-Probability-Statistics/dp/1118730038)
-* [Knight 2000, Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Chapman-Statistical-Science/dp/158488178X)
-* [Hogg, McKean, Craig 2000, Introduction to Mathematical Statistics](https://www.amazon.ae/Introduction-Mathematical-Statistics-Global-Robert/dp/1292264764)
-* [Evans and Rothenthal 2024, Probability and Statistics: The Science of Uncertainty](https://utstat.utoronto.ca/mikevans/jeffrosenthal/)
-
 
 
 
@@ -62,17 +56,12 @@ This course assumes basic training in linear algebra, probability theory, and st
 
 ## Course Assignments and Requirements
 
-* **Lecture Particpation:** 10%
-* **Lab Particpation:** 10%
-* **Assignments:** 20%
-* **midterm Exam:** 20%
-* **Final Exam:** 40%
+* **Particpation:** 10%
+* **Assignments:** 30%
+* **midterm Exam:** 30%
+* **Final Project:** 30%
 
 
-
-### Lecture and Lab Participation
-
-To earn participation points, participate in discussions and ask questions during lectures and online on Moodle Discussions.
 
 ## Student Survey of Teaching
 
@@ -81,13 +70,12 @@ You will have multiple opportunities to provide feedback on your experience in t
 
 ## Attendance Policy
 
-All course materials will be shared online after class. You are expected and encouraged to attend and participate in class. There are 20% points for lecture and lab participation. If you have any problems which will cause you to miss a class/lab or an assignment deadline please email me.
+All course materials will be shared online after class. You are expected and encouraged to attend and participate in class. There are 10% points for lecture participation. If you have any problems which will cause you to miss a class/lab or an assignment deadline please email me.
 
-The [University Excused Absence Policy] is a good reference for allowed reasons.
 
 ## Subject to Change Statement
 
-The schedule for the class beyond next week is subject to change. Please consult the course website to know the latest version of the schedule and syllabus. Any changes in assignments and syllabus policies will conveyed via Canvas announcements.
+The schedule for the class beyond next week is subject to change. Please consult the course website to know the latest version of the schedule and syllabus. Any changes in assignments and syllabus policies will conveyed via Quercus announcements.
 
 ## Student Resources and University Policies
 
