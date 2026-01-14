@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: "SDS7102"
+description: "STAD80"
 nav_order: 2
 ---
 
