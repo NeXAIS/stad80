@@ -49,7 +49,7 @@ This course is a topic course, whose contents evolve from year to year. The cour
 
 
 ### Communications
-* [Quercus]()
+* [Quercus](https://q.utoronto.ca/)
 
 
 
