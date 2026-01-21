@@ -35,7 +35,7 @@ This course is a topic course, whose contents evolve from year to year. The cour
 
 ### Textbook
 
-* [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
+* [Lecture Notes](https://www.overleaf.com/read/tdcxbsvxgjxj#ac3d16)
 
 
 
