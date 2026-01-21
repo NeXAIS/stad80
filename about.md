@@ -17,7 +17,7 @@ _Winter 2026_
 
 **Lectures:** Wed, 12:00 - 13:00, IA2050; Fri, 10:00 - 12:00, IA2160
 
-**Office Hours:** TBD
+**Office Hours:** Wed, 15:00 - 16:00, IA4030; Fri, 15:00 - 16:00, IA4030
 
 **Email:** [qiang.sun@utoronto.ca](mailto:qiang.sun@utoronto.ca) 
 
