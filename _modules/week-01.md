@@ -2,10 +2,15 @@
 title: Schedule
 ---
 
-Week 1
+Week 1&2
 : [Fundametals](../lectures/slides01.pdf)
-  : [code](../code/week1.ipynb)
+: [Predictive Learning](../lectures/slides02.pdf)
 
+Week 3
+: [From Precictive to Generative](../lectures/slides03.pdf)
+
+Week 4
+: [Flow and Diffusion Models](../lectures/slides04.pdf)
 
 
 <!-- Week 2
