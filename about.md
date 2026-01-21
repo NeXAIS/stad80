@@ -28,9 +28,9 @@ _Please email if standard office hours times do not work for you._
 
 ### Course Description 
 This course is a topic course, whose contents evolve from year to year. The course usually consists of both theoretical and computational components. This year, we will focus on three pillars:
-	1.	Fundamentals, such as statistical principles and models
-	2.	Optimization and generative learning
-	3.	Generative modeling and learning
+	1.	Fundamentals, such as statistical principles and models, 
+	2.	Optimization, 
+	3.	Generative modeling and learning. 
 
 
 ### Textbook
