@@ -46,10 +46,6 @@ All materials are available as publicly available research papers linked from th
 
 
 
-### Reference Books
-
-
-
 ## Prerequisites and Corequisites
 
 This course assumes basic training in linear algebra, probability theory, and statistical inference.
