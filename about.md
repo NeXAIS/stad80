@@ -40,14 +40,6 @@ This course is a topic course, whose contents evolve from year to year. The cour
 
 
 
-
-
-### Reference Books
-
-
-
-
-
 ### Communications
 * [Quercus](https://q.utoronto.ca/)
 
