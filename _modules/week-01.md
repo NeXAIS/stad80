@@ -2,15 +2,21 @@
 title: Schedule
 ---
 
-Week 1
+Lecture 1
 : [Fundametals](../lectures/slides01.pdf)
+
+
+Lecture 2
 : [Predictive Learning](../lectures/slides02.pdf)
 
-Week 2
+Lecture 3
 : [From Precictive to Generative](../lectures/slides03.pdf)
 
-Week 3
+Lecture 4
 : [Flow and Diffusion Models](../lectures/slides04.pdf)
+
+Lecture 5
+: [Training Flow and Diffusion Models](../lectures/slides05.pdf)
 
 
 <!-- Week 2
