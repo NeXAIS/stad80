@@ -18,6 +18,19 @@ Lecture 4
 Lecture 5
 : [Training Flow and Diffusion Models](../lectures/slides05.pdf)
 
+Lecture 6
+: [Controllable Generation](../lectures/slides06.pdf)
+
+
+Lecture 7
+: [](../lectures/slides07.pdf)
+
+
+Lecture 8
+: [](../lectures/slides08.pdf)
+
+Lecture 9
+: [](../lectures/slides09.pdf)
 
 <!-- Week 2
 : [Random Variables](../lectures/2.RV.pdf)
