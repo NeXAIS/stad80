@@ -23,7 +23,7 @@ Lecture 6
 
 
 Lecture 7
-: [](../lectures/slides07.pdf)
+: [Discrete Flow Matching](../lectures/slides07.pdf)
 
 
 Lecture 8
