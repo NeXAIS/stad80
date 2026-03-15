@@ -12,7 +12,7 @@ Lecture 2
   : [Lecture](../lectures/lecture02_Predictive.pdf)
 
 Lecture 3
-: [From Precictive to Generative](../lectures/slides03.pdf)
+: [From Predictive to Generative](../lectures/slides03.pdf)
   : [Lecture](../lectures/lecture03_Generative.pdf)
 
 Lecture 4
