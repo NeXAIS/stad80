@@ -27,15 +27,18 @@ _Winter 2026_
 _Please email if standard office hours times do not work for you._
 
 ### Course Description 
-This course is a topic course, whose contents evolve from year to year. The course usually consists of both theoretical and computational components. This year, we will focus on three pillars:
-	1.	Fundamentals, such as statistical principles and models, 
-	2.	Optimization, 
-	3.	Generative modeling and learning. 
+
+This is a special topics course, with content that evolves each year. The course integrates both theoretical foundations and computational techniques. For Winter 2026, we will focus on three main pillars:
+
+1. **Fundamentals:** Core statistical principles and models
+2. **Flow Matching Models:** Modern approaches and applications
+3. **Accelerating Inference:** Techniques to improve sampling efficiency
+
 
 
 ### Textbook
 
-* [Lecture Notes](https://www.overleaf.com/read/tdcxbsvxgjxj#ac3d16)
+* Lecture Notes at [Course Schedule](../schedule.md)
 
 
 
