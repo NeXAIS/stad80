@@ -27,10 +27,14 @@ Lecture 7
 
 
 Lecture 8
-: [](../lectures/slides08.pdf)
+: [Faster Sampling: Advanced Solvers](../lectures/slides08.pdf)
 
 Lecture 9
-: [](../lectures/slides09.pdf)
+: [Faster Sampling: Distillation](../lectures/slides09.pdf)
+
+
+Lecture 10
+: [Faster Sampling: Training from Scratch](../lectures/slides09.pdf)
 
 <!-- Week 2
 : [Random Variables](../lectures/2.RV.pdf)
