@@ -42,7 +42,8 @@ All materials are available as publicly available research papers linked from th
 
 
 ### Textbook
-* Lecture Notes at [Course Schedule](../schedule.md)
+* Lecture Notes at [Course Schedule](../stad80/schedule.md)
+
 
 <!-- (https://www.overleaf.com/read/tdcxbsvxgjxj#ac3d16) -->
 

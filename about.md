@@ -38,7 +38,7 @@ This is a special topics course, with content that evolves each year. The course
 
 ### Textbook
 
-* Lecture Notes at [Course Schedule](../schedule.md)
+* Lecture Notes at [Course Schedule](../stad80/schedule.md)
 
 
 
