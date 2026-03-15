@@ -28,11 +28,13 @@ _Please email if standard office hours times do not work for you._
 
 ### Course Description 
 
-This is a special topics course, with content that evolves each year. The course integrates both theoretical foundations and computational techniques. For Winter 2026, we will focus on three main pillars:
+This is a special topics course whose content evolves each year, integrating both theoretical foundations and computational techniques. For Winter 2026, we will focus on three main pillars:
 
-1. **Fundamentals:** Core statistical principles and models
-2. **Flow Matching Models:** Modern approaches and applications
-3. **Accelerating Inference:** Techniques to improve sampling efficiency
+1. **Fundamentals:**  Core statistical principles and foundational models; 
+2. **Flow Matching Models:** Continuous (state) flow and diffusion models, discrete flow models for generative modeling; 
+3. **Accelerating Inference:** Techniques to improve sampling efficiency. 
+
+
 
 
 

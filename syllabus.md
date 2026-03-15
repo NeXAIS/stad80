@@ -22,7 +22,7 @@ nav_order: 2
 
 _Please email if standard office hours times do not work for you._
 
-[Syllabus](./lectures/syllabus.pdf)
+<!-- [Syllabus](./lectures/syllabus.pdf) -->
 
 ## Instructional Methods
 
@@ -30,11 +30,12 @@ In Person. Some classes may be scheduled on Zoom in unforeseen circumstances.
 
 ## Course Description
 
-This course is a topic course, whose contents evolve from year to year. The course usually consists of both theoretical and computational components. This year, we will focus on three pillars:
-	1.	Fundamentals, such as statistical principles and models
-	2.	Optimization and generative learning
-	3.	Generative modeling and learning
- 
+This is a special topics course whose content evolves each year, integrating both theoretical foundations and computational techniques. For Winter 2026, we will focus on three main pillars:
+
+1. **Fundamentals:**  Core statistical principles and foundational models; 
+2. **Flow Matching Models:** Continuous (state) flow and diffusion models, discrete flow models for generative modeling; 
+3. **Accelerating Inference:** Techniques to improve sampling efficiency. 
+
 
 ## Course Materials
 
