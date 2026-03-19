@@ -35,7 +35,7 @@ Lecture 7
 
 Lecture 8
 : [Faster Sampling: Advanced Solvers](../lectures/slides08.pdf)
-  : [Lecture](../lectures/lecture08_Solvers.pdf)
+  : [Lecture](../lectures/lecture08_solvers.pdf)
 
 Lecture 9
 : [Faster Sampling: Distillation](../lectures/slides09.pdf)
