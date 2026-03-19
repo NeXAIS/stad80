@@ -43,7 +43,7 @@ Lecture 9
 
 
 Lecture 10
-: [Faster Sampling: Training from Scratch](../lectures/slides09.pdf)
+: [Faster Sampling: Training from Scratch](../lectures/slides10.pdf)
   : [Lecture](../lectures/lecture10_training_from_scratch.pdf)
 
 <!-- Week 2
