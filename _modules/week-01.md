@@ -44,7 +44,7 @@ Lecture 9
 
 Lecture 10
 : [Faster Sampling: Training from Scratch](../lectures/slides10.pdf)
-  : [Lecture](../lectures/lecture10_training_from_scratch.pdf)
+  : [Lecture](../lectures/lecture10_from_scratch.pdf)
 
 <!-- Week 2
 : [Random Variables](../lectures/2.RV.pdf)
